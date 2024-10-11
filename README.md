@@ -1,5 +1,6 @@
 
-# Hi there, I'm Protyay 👋
+# Hi there, 
+I'm Protyay Kumar Pramanik 👋
 
 Welcome to my GitHub profile! I'm a first-year Software Engineering student with a passion for science, technology, and the universe beyond. I’m fascinated by data science and cybersecurity and I'm currently working on various projects to expand my skills in these areas.
 
