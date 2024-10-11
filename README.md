@@ -15,6 +15,6 @@ Welcome to my GitHub profile! I'm a first-year Software Engineering student with
 ## Let's Connect
 I'm always eager to connect and collaborate! You can reach me on:
 - [LinkedIn](https://www.linkedin.com/in/protyay-kumar-pramanik) 
-- [Email](mailto:protyay.pmk@gmail.com)
+
 
 Thanks for visiting my profile! 🌠
